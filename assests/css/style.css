@@ -1,0 +1,78 @@
+body {
+  background-color: #00aeff;
+}
+.container {
+  float: left;
+}
+
+#rules {
+  background-color: tan;
+  color: green;
+  width: 400px;
+  height: 270px;
+  padding: 2%;
+}
+.cPics {
+  width: 80px;
+  height: 80px;
+}
+
+#header {
+  float: inline-start;
+  background-color: orange;
+  color: white;
+  width: 300px;
+  height: 40px;
+  font-size: 30px;
+  text-align: center;
+}
+#scores {
+  background-color: green;
+  color: white;
+  font-size: 50px;
+  height: 30 px;
+  padding: 2%;
+}
+#scores2 {
+  float: center;
+  background-color: green;
+  color: white;
+  font-size: 110px;
+  width: 300px;
+  height: 100px;
+  text-align: center;
+  padding: 2%;
+}
+
+#numberToGuess {
+  float: inline-start;
+  background-color: green;
+  color: black;
+  font-size: 75px;
+  width: 140px;
+  height: 200px;
+  text-align: center;
+  padding: 2%;
+}
+
+.wrapper {
+  display: center;
+  width: 500px;
+  height: 100px;
+  overflow: hidden;
+}
+
+#crystals {
+  height: 90px;
+  width: 450px;
+  padding: -50px;
+}
+
+.wrapper2 {
+  background-color: green;
+  color: white;
+  height: 120px;
+  width: 120px;
+  padding: 2%;
+  float: inline-end;
+}
